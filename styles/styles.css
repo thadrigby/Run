@@ -1,0 +1,37 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  background: url('../images/runStartingLine.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+
+}
+
+/* THIS IS FOR EVERYTHING IN THE HEADER */
+.header {
+	border: solid red 2px;
+	margin: 5%;
+	text-align: center;
+	
+
+}
+
+/* THIS IS FOR EVERYTHING IN THE MAIN SECTION */
+.main {
+	border: solid yellow 2px;
+	margin: 5%;
+	text-align: center;
+}
+
+
+/* THIS IS FOR EVERYTHING IN THE FOOTER */
+.footer {
+	border: solid blue 2px;
+	margin: 5%;
+	text-align: left;
+}
